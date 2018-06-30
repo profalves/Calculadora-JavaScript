@@ -16,7 +16,7 @@ body{
 }
 #calculadoraBackground{
   background-image: url("../image/Calculadora.png");
-  background-size: contain;
+  background-size: cover;
   width: 432px;
   height: 78%;
   margin-top: 2rem;
